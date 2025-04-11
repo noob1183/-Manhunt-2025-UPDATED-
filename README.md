@@ -6,7 +6,7 @@ In this manhunt game, the game will randomly pick 3 persons or 1 person to be th
 
 - If the prey kills a hunter, their health will be increased by 5 (maximum health is 200)
 
-## INSTRUCTIONS
+## SETUP INSTRUCTIONS
 
 IMPORTANT NOTES: This game mode only works for 5v5, duels (2v2) or 30v30. Any other game modes will make the game bug and cannot be played. To start a match, you must have at least 3 or 6 players.
 
@@ -49,7 +49,7 @@ Remove forced prey [prefix, removeforcedprey, Target]
 **NEW MESSAGE SYSTEM & REWORKED INSTRUCTIONS (4/9/2025)**
 
 - Added new message system. No more notifications.
-- Instructions have been reworked.
+- Reworked setup instructions.
 
 ## OLD UPDATE(S)
 
