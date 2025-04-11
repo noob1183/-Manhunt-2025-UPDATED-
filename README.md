@@ -12,9 +12,9 @@ IMPORTANT NOTES: This game mode only works for 5v5, duels (2v2) or 30v30. Any ot
 
 **HOST PANEL**
 ```
-Deathmatch Time: Inf (Set to inf by putting a lot of 9s)
+Deathmatch Time: inf (Set to inf by putting a lot of 9s)
 Pvp: Enabled
-Anti-cheat: Disabled (Use /setac disabled command to disable)
+Anti-cheat: Disabled (Use /setAc disabled command in chat)
 Show name tags: Disabled
 Kits: Optional
 Shop: Enabled
