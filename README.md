@@ -16,7 +16,7 @@ IMPORTANT NOTES: This game mode only works for 5v5, duels (2v2) or 30v30. Any ot
 ```
 Deathmatch Time: Inf (Set to inf by putting a lot of 9s)
 Pvp: Enabled
-Anti-cheat: Disabled
+Anti-cheat: Disabled (Use /setac disabled command to disable)
 Show name tags: Disabled
 Kits: Optional
 Shop: Enabled
