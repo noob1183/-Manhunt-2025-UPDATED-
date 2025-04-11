@@ -26,14 +26,13 @@ local ChatTipsTag = '[TIPS]: '
 return {
     RunSupportAndTips = function()
         while task.wait(20) do
-            print(OutputMark..'Sending message to chat...')
             local ChosenCategory = ChatMessagesNames[math.random(1, #ChatMessagesNames)]
             local ChosenMessage = ChatMessages[ChosenCategory][math.random(1, #ChatMessages[ChosenCategory])]
     
             if ChosenCategory == 'SupportsMessages' then
-                MessageService.broadcast(ChatSupportsTag..ChosenMessage, Color3.fromRGB(255, 0, 0))
+                ChatService.sendMessage(ChatSupportsTag..ChosenMessage, Color3.fromRGB(255, 0, 0))
             elseif ChosenCategory == 'TipsMessage' then
-                MessageService.broadcast(ChatTipsTag..ChosenMessage, Color3.fromRGB(255, 255, 0))
+                ChatService.sendMessage(ChatTipsTag..ChosenMessage, Color3.fromRGB(255, 255, 0))
             end
         end
     end;
