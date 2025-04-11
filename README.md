@@ -1,7 +1,5 @@
 # ⚔️ Manhunt (2025 UPDATED) ⚔️
 
-## HOW TO PLAY
-
 In this manhunt game, the game will randomly pick 3 persons or 1 person to be the prey depending on the server players. The prey's mission is to survive the hunters and not get killed by them for 10 minutes to win, and the hunters' mission is to chase and kill all the prey in the game to win. If the prey dies, then it will be assigned to the hunters' team until the last prey wins the match. Preys will have a good privilege when the game starts, and the hunter privilege is Bedwars default. Buy gears and catch the prey or be the prey and survive the hunters in 10 minutes with yourself or other prey. Let's find out!!
 
 **Fun Fact:**
