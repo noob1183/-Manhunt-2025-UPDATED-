@@ -3,7 +3,7 @@ local ChatMessages = {
         'Please support me by follow me on social medias and subscribe to my yt channel!!';
         "Go to my website bedcraftstudio.carrd.co to donate any amount u want in PayPal!!";
         'Want more game modes? Go to bedcraftstudio.carrd.co and get more there!!';
-        'Want to check for script updates? Go to bedcraftstudio.carrd.co then find the "Update Notes" of your game mode!!';
+        'Want to check for scripts updates? Go to https://github.com/noob1183/Bedwars_Manhunt then find the "Update Notes" of your game mode!!';
         'Follow me on Roblox in my profile to help me get verified badge (@Tranquananh2811)!!';
     };
  
