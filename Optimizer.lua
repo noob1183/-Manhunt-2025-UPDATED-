@@ -1,17 +1,15 @@
 local ChatMessages = {
     ['SupportsMessages'] = {
-        'Please support me by follow me on social medias and subscribe to my yt channel!!';
-        "Go to my website bedcraftstudio.carrd.co to donate any amount u want in PayPal!!";
-        'Want more game modes? Go to bedcraftstudio.carrd.co and get more there!!';
-        'Want to check for scripts updates? Go to https://github.com/noob1183/Bedwars_Manhunt then find the "Update Notes" of your game mode!!';
+        'Want more game modes? Go to https://github.com/noob1183 and get more there!!';
+        'Want to check for this game mode updates? Go to https://github.com/noob1183/Bedwars_Manhunt then find the "LATEST UPDATE(S)"!!';
         'Follow me on Roblox in my profile to help me get verified badge (@Tranquananh2811)!!';
     };
  
     ['TipsMessage'] = {
         'Lassy kit can be use to throw lasso to pull and stun player.';
         'Eldertree kit and hunter health stack is op?';
-        'Void axe and Jade hammer will create a great distance when both used.';
-        'Hunter health stack max is 5 health per kill.';
+        'Void axe and Triton trident will create a great travel distance when both used.';
+        'Hunter health stack is 5 health per kill.';
     };
 }
  
