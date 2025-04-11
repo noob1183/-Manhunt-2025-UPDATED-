@@ -257,8 +257,6 @@ local function MatchSetup()
     for _, preyName in pairs(ChosenPreyList) do
         local prey = PlayerService.getPlayerByUserName(preyName)
 
-        print(preyName)
-
         if prey ~= nil then
             local preyEntity = prey:getEntity()
             for _, ItemsConfig in pairs(PreyItems) do
